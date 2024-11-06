@@ -9,7 +9,7 @@ var faceup: bool = false
 var yokai_number:int
 
 var root_node:Node
-
+var neruma:Node
 
 func _ready() -> void:
 	root_node = get_node("/root/Game")
